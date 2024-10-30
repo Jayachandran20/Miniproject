@@ -1,4 +1,4 @@
-##Decentralized Predictive Maintenance System
+ Decentralized Predictive Maintenance System
 
 The development of a decentralized predictive maintenance system aims to enhance industrial equipment reliability by proactively predicting failures and providing real-time insights for maintenance. Through blockchain integration and predictive analytics, this system ensures data transparency and security, reducing downtime and maintenance costs, while significantly improving operational efficiency across various industrial applications.
 About
@@ -15,7 +15,7 @@ Features
     Low latency in prediction and alert generation for swift maintenance responses.
     Provides a user-friendly interface for equipment monitoring.
 
-##Requirements
+Requirements
 
     Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) to ensure compatibility with blockchain integration and machine learning models used for predictive maintenance.
     Development Environment: Python 3.8 or later is recommended to code the decentralized predictive maintenance application effectively.
@@ -26,26 +26,26 @@ Features
     IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
     Additional Dependencies: Includes Solidity, Remix, Ganache,and Metamask for Blockchain tasks.
 
-###System Architecture
+System Architecture
 
-##Architecture
+Architecture
 Output
 Output1 - Home Page
 
-##Home_Page
+Home_Page
 Output2 - Prediction with Details
 
-##Prediction
+Prediction
 Output3 - Real Time Decentralized Visualization
 
-##Decentralized
+Decentralized
 Output4 - Send Notification
 
-##Notification
+Notification
 
 Prediction Accuracy: 95%
 
-##Results and Impact
+Results and Impact
 
 The Decentralized Predictive Maintenance System significantly enhances operational efficiency and reliability for industries by providing proactive maintenance solutions. Through the integration of machine learning and blockchain, the project enables secure, transparent, and real-time monitoring of equipment, reducing downtime and minimizing financial losses from unexpected failures.
 
